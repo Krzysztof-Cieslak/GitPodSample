@@ -1,3 +1,4 @@
 {
-    "FSharp.useSdkScripts": true
+   "FSharp.useSdkScripts": true,
+   "FSharp.dotNetRoot": "/usr/share/dotnet/"
 }
